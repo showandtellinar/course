@@ -1,5 +1,5 @@
-cs6501: Data Hacking ("Show-and-Tell")
-======================================
+cs6501: "Show-and-Tell"-inar
+=============================
 
 **Meetings:** Mondays and Wednesdays, 11am-12:15pm in Rice 536.  
 
@@ -24,8 +24,8 @@ The course is listed as a graduate-level seminar, but is open to any
 students who are both able to contribute well to the seminar and likely
 to get something worthwhile out of participating in it.  Although no
 particular technical background is required, students should be
-comfortable with programming and eager to share things they learn with
-others.
+self-motivated learners who are comfortable with programming and eager
+to share things they learn with others.
 
 ## Activities
 
