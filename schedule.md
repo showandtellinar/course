@@ -6,9 +6,9 @@ Schedule
 | Wednesday, 15 October | (signup) | |
 | Monday, 20 October | Hunter Leath  | (De)anonymizing Data [PDF](http://www.cs.utexas.edu/~shmat/shmat_oak09.pdf)|
 | Wendesday, 22 October | Danny Brody | Cleaning up GPS Data |
-| Monday, 27 October | Alex Lamana | |
-| Wendesday, 29 October | Wil Thomason | |
-| Monday, 3 November | Dylan Ferrer | |
+| Monday, 27 October | Alex Lamana | Sampling |
+| Wendesday, 29 October | Wil Thomason | (TBD) |
+| Monday, 3 November | Dylan Ferrer | Building a Physics Engine |
 | Wednesday, 5 November | Brent Baumgartner | Computer Vision|
 | Monday, 10 November | Jeremy Stern | |
 | Wednesday, 12 November | Louis Mungin | |
