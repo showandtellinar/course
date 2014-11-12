@@ -10,7 +10,7 @@ Schedule
 | Wendesday, 29 October | Wil Thomason | Hidden Markov Models |
 | Monday, 3 November | Dylan Ferrer | Building a Physics Engine |
 | Wednesday, 5 November | Brent Baumgartner | Computer Vision|
-| Monday, 10 November | Jeremy Stern | |
+| Monday, 10 November | Jeremy Stern | Preferences, Collaborative Filtering |
 | Wednesday, 12 November | Louis Mungin | |
 | Monday, 17 November | Andrew Lee | |
 | Wednesday, 19 November | Jason Choi | |
