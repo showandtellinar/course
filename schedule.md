@@ -16,5 +16,5 @@ Schedule
 | Wednesday, 19 November | Jason Choi | Machine Learning Models |
 | Monday, 24 November | Andrew Lee | |
 | Wednesday, 26 November | _Thanksgiving Break_ | _Turkey_ |
-| Monday, 1 December | Project Presentations 1 | 1. Hunter; 2. Danny; 3. Jason; 4. Louis |
+| Monday, 1 December | Project Presentations 1 | 1. Hunter; 2. Danny; 3. Jason; 4. [Louis](https://github.com/showandtellinar/Presentations/blob/master/LoL%20Project.pptx?raw=true) |
 | Wednesday, 3 December | Project Presentations 2 | 1. Brent/Dylan; 2. Jeremy; 3. Andrew; 4. Wil/Alex |
