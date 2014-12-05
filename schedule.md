@@ -17,4 +17,4 @@ Schedule
 | Monday, 24 November | Andrew Lee | |
 | Wednesday, 26 November | _Thanksgiving Break_ | _Turkey_ |
 | Monday, 1 December | Project Presentations 1 | 1. Hunter; 2. Danny; 3. Jason; 4. Louis: [League of Legends Stats](https://github.com/showandtellinar/Presentations/blob/master/LoL%20Project.pptx?raw=true) |
-| Wednesday, 3 December | Project Presentations 2 | 1. Brent/Dylan: [Pool](https://github.com/dferrer/Pool); 2. Jeremy; 3. Andrew; 4. Wil/Alex |
+| Wednesday, 3 December | Project Presentations 2 | 1. Brent/Dylan: [Taking the "OO" out of Pool](https://github.com/dferrer/Pool); 2. Jeremy; 3. Andrew; 4. Wil/Alex |
